@@ -1,0 +1,20 @@
+.main-item-container {
+  width: 375px;
+  height: 440px;
+}
+
+.main-item-header {
+  margin: 0;
+  padding-bottom: 6px;
+  text-align: left;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 40.85px;
+}
+
+.main-item-description {
+  margin: 0;
+  text-align: left;
+  font-size: 16px;
+  line-height: 28px;
+}

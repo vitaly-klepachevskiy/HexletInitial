@@ -1,0 +1,11 @@
+.main-container {
+  background-color: #fff6ed;
+  padding: 60px 57px 42px 57px;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.main-items-container {
+  display: flex;
+  justify-content: space-between;
+}
